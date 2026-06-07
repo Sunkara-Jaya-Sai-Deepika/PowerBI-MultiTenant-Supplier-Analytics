@@ -153,7 +153,9 @@ Examples:
 * Dashboard Screenshots
 * Data Model Documentation
 * DAX Measure Documentation
+In deatails file about Power BI operation performed:
 
+📄 [View Detailed Power BI Service Documentation](Coop_PowerBI_Project_Tasks.pdf)
 ---
 
 ## Author
