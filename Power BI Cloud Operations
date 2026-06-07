@@ -1,0 +1,32 @@
+# Power BI Service Operations
+
+## Workspace Management
+- Created and managed Power BI workspaces.
+- Published reports and semantic models.
+
+## Report Sharing
+- Shared reports with users.
+- Managed access permissions.
+
+## Gateway Configuration
+- Configured on-premises gateway connections.
+- Validated data source paths.
+- Resolved gateway connection issues.
+
+## Scheduled Refresh
+- Configured daily refresh schedules.
+- Monitored refresh history.
+- Validated refresh success and failures.
+
+## App Publishing
+- Published reports through Power BI Apps.
+- Managed user access.
+
+## Deployment Pipelines
+- Created Development, Test, and Production environments.
+- Deployed content between environments.
+- Validated synchronization status.
+
+## Security
+- Implemented Row-Level Security (RLS).
+- Managed workspace and report permissions.
